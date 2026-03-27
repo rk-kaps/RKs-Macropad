@@ -1,7 +1,7 @@
-<h1 align="center">CyberDock</h1>
+<h1 align="center">RKs Macropad</h1>
 
 <p align="center">
-  Welcome to CyberDock, my custom 3D printed Macropad that runs KMK firmware.
+  Welcome to RKs Macropad, my custom 3D printed Macropad that runs KMK firmware.
 </p>
 
 <p align="center">
@@ -14,23 +14,13 @@
 
 <hr>
 
-<h2>PCB and Schematic</h2>
-
-<p align="center">
-  <img width="839" height="827" alt="PCB" src="https://github.com/user-attachments/assets/b32d6810-f02c-4f04-b270-b12eb4f2688b" />
-</p>
-
-<p align="center">
-  <img width="1032" height="448" alt="Schematic" src="https://github.com/user-attachments/assets/b46680c7-6786-48de-bf1c-6fb5e26a1179" />
-" />
-</p>
 
 <hr>
 
 <h2>Bill of Materials:</h2>
 
 <ul>
-  <li>1x CyberDock PCB</li>
+  <li>1x Rks Macropad PCB</li>
   <li>1x XIAO-PR2040-DIP</li>
   <li>1x EC11 rotary encoder</li>
   <li>11x Cherry MX (or equivalent) keyswitches</li>
@@ -69,6 +59,3 @@
   <li>Use double-sided tape or a light adhesive to hold the OLED into its holder,.</li>
 
   
-</ol>
- <img width="2452" height="1379" alt="image" src="https://github.com/user-attachments/assets/86422134-b43e-46da-95b3-39a9b9a38775" />
- <img width="2452" height="1379" alt="image" src="https://github.com/user-attachments/assets/9b084e8a-2086-4db3-86c4-1d39cc7725c2" />
