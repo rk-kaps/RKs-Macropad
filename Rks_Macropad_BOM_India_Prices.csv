@@ -1,0 +1,12 @@
+Ref,Component,Manufacturer,Qty,Unit Price (₹),Total (₹),Store,Link
+PCB,Rks Macropad PCB,Custom,1,250,250,JLCPCB,https://jlcpcb.com
+MCU,XIAO-RP2040-DIP,Seeed Studio,1,914,914,Robocraze,https://robocraze.com/products/seeed-studio-xiao-rp2040-development-board
+ENC,EC11 Rotary Encoder w/ Push Button,Hongyan,1,52,52,Robu.in,https://robu.in/product/hongyan-ec11h-7ce15p1zy15f7-rotary-encoder-with-push-button-switch-vertical-plug-in/
+SW,Cherry MX RGB Switch (pack of 10),Cherry,2,350,700,Meckeys,https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/cherry-mx-rgb-switch/
+KP,Keycaps MX compatible (set),Generic,1,499,499,Meckeys,https://meckeys.com/category/accessories/keyboard-accessories/keycaps/
+D,1N4148 Through-hole Diode,OnSemi,12,1,12,Robu.in,https://robu.in/product/diode-1n4148/
+OLED,"0.91"" OLED SSD1306 I2C 128x32",Generic,1,149,149,Robu.in,https://robu.in/product/0-91-inch-128x32-i2c-iic-serial-blue-oled-lcd-display-module/
+SCR,Cap Head M3x16 Allen Bolt (12 pcs),EasyMech,1,89,89,Robu.in,https://robu.in/product/easymech-set-m3-x-16mm-socket-head-cap-allen-bolt-nut-12-pcs/
+SHL-T,3D Printed Shell - Top Half,Self-printed,1,150,150,3Ding.in,https://www.3ding.in
+SHL-B,3D Printed Shell - Bottom Half,Self-printed,1,150,150,3Ding.in,https://www.3ding.in
+,,,,TOTAL,2965,,
