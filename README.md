@@ -13,7 +13,16 @@
 </p>
 
 <hr>
+<h2>Motivation</h2>
+<ul>>
+MacroPad began as a simple rotary encoder-based volume controller. It evolved into a fully-featured macropad focused on:
 
+Speeding up workflows
+Reducing repetitive actions
+Providing intuitive visual feedback
+Maximizing functionality within hardware constraints
+</ul>
+</h2>
 
 <hr>
 
