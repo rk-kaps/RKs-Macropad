@@ -23,7 +23,13 @@ Providing intuitive visual feedback
 Maximizing functionality within hardware constraints
 </ul>
 </h2>
-
+<h2> Project Highlights  </h2>
+<ul>
+- Efficient use of limited GPIO resources  
+- Custom analog decoding for rotary encoder  
+- Integration of hardware + firmware + UI design  
+- Fully functional productivity tool
+</ul>
 <hr>
 
 <h2>Bill of Materials:</h2>
@@ -68,3 +74,7 @@ Maximizing functionality within hardware constraints
   <li>Use double-sided tape or a light adhesive to hold the OLED into its holder,.</li>
 
   
+<h2> Acknowledgements  </h2>
+<ul>
+- KMK Firmware Community  
+- Good people of Hack Club</ul>
