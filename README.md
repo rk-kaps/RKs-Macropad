@@ -12,7 +12,23 @@
   <img width="492" height="671" alt="Exploded" src="https://github.com/user-attachments/assets/d0a7c135-8f6a-44a4-baa8-cb78e2e79458" />
 </p>
 
+
 <hr>
+<h2>PCB & Schematic</h2>
+<p align="center">
+  <img width="600" alt="PCB Layout" src="pcb_layout.png" />
+  <br><em>PCB Layout (KiCad)</em>
+</p>
+<p align="center">
+  <img width="600" alt="Schematic" src="schematic.png" />
+  <br><em>Schematic</em>
+</p>
+<p align="center">
+  <img width="600" alt="PCB 3D View" src="pcb_3d.png" />
+  <br><em>PCB 3D Render</em>
+</p>
+
+
 <h2>Motivation</h2>
 <ul>>
 MacroPad began as a simple rotary encoder-based volume controller. It evolved into a fully-featured macropad focused on:
