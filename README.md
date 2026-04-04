@@ -50,7 +50,29 @@ Maximizing functionality within hardware constraints
 <p>
   small amount of spare wire apprx. 50mm worth.
 </p>
-
+<hr>
+<h2>Instructions for Assembly</h2>
+<ol>
+  <li>Solder RP2040 directly onto the PCB without a header.</li>
+  <li>Solder on diodes aligning with the silkscreen.</li>
+  <li>Solder Cherry MX switches to board.</li>
+  <li>
+    Solder breakout cables to the spare 4 pins near the RP2040 — these will be used to wire to the OLED display.
+    Make these breakout cables ~2" to allow for easier soldering.
+  </li>
+  <li>
+    Clamshell the base around the PCB, passing the breakout cables through the small hole in the gap for the display
+    in the top half of the case, then use the M3x16 machine screws to clamp the assembly together.
+  </li>
+  <li>Solder display to the breakout cables.</li>
+  <li>Use double-sided tape or a light adhesive to hold the OLED into its holder.</li>
+</ol>
+<hr>
+<h2>Acknowledgements</h2>
+<ul>
+- KMK Firmware Community  
+- Good people of Hack Club
+</ul>
 <hr>
 
 <h2>Instructions for Assembly:</h2>
